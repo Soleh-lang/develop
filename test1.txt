@@ -1,0 +1,46 @@
+1. diketahui sebuah bilangan mempunyai nilai i = 1
+	jika kita menggunakan konsep pemrograman maka akan menimbulkan suatu proses logika yang di sebut metode looping
+	buatlah sebuah metode looping di bawah ini 
+	Jika i = 1 dan i lebih kecil sama dengan 5 kemudian i di pangkatkan +
+	dan jika k = 1 lebih kecil sama dengan nilai i maka pangkatkan +
+	tampilkan dalam output di bawh ini
+
+		1
+	      1 2
+	    1 2 3
+	  1 2 3 4
+	1 2 3 4 5
+
+2. diketahui sebuah bilangan mempunyai nilai b = 1
+	jika kita menggunakan konsep pemrograman maka akan menimbulkan suatu proses logika yang di sebut metode looping
+	buatlah sebuah metode looping di bawah ini 
+	Jika b = 1 dan i lebih kecil sama dengan 5 kemudian i di pangkatkan +
+	dan jika k = 1 lebih besar sama dengan nilai i maka pangkatkan -
+	tampilkan dalam output di bawh ini
+
+
+	*
+	* *
+	* * *
+	* * * *
+	* * * * *
+
+3. diketahui a = 10 a lebih besar daripada 0 a pangkatkan +
+	jika i=1 i lebih besar sama dengan a maka pangkatkan +
+	jika b= 10 b lebih besar daripada a maka pangkatkan -
+	jika c=11 dan c lebih besar daripada a maka pangkatkan -
+	buatlah output dari logika tersebut menjadi pola
+
+			*
+		      * * *
+	            * * * * *
+                 * * * * * * * *
+               * * * * * * * * * *
+             * * * * * * * * * * * *
+           * * * * * * * * * * * * * *
+         * * * * * * * * * * * * * * * *
+	
+4 . [ 2, 3 , 4 , 5 , 6 , 9 , 12 , 10 ]
+
+	urutkan dari yang terbesar menjadi terkecil dengan program logika
+	ketika sudah di urutkan maka pangkatkan semua bilangan dengan 2
